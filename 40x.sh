@@ -108,6 +108,7 @@ main() {
         "X-Originating-IP: 127.0.0.1"
         "X-Forwarded: 127.0.0.1"
         "Forwarded-For: 127.0.0.1"
+        "Forwarded-For: admin"
         "X-Forwarded-For: 127.0.0.1:80"
         "X-Remote-IP: 127.0.0.1"
         "X-Remote-Addr: 127.0.0.1"
